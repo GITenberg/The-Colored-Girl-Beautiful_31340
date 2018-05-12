@@ -1,0 +1,32 @@
+_repo: The-Colored-Girl-Beautiful_31340
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31340-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hackley, E. Azalia (Emma Azalia)
+    aliases:
+    - Smith, Emma Azalia
+    - Smith, E. Azalia (Emma Azalia)
+    - Hackley, Emma Azalia
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '35165'
+    url: http://www.gutenberg.org/2009/agents/35165
+description: ''
+gutenberg_issued: '2010-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31340'
+  lccn: '18020407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+- !lcsh 'Young women'
+title: The Colored Girl Beautiful
+url: http://www.gutenberg.org/ebooks/31340
