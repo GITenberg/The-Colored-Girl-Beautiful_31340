@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '35165'
     url: http://www.gutenberg.org/2009/agents/35165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31340#The-Colored-Girl-Beautiful
 gutenberg_issued: '2010-02-21'
 gutenberg_type: Text
 identifiers:
